@@ -1,6 +1,6 @@
 [![Workflow Status](https://github.com/liambloom/as_any/workflows/main/badge.svg)](https://github.com/liambloom/as_any/actions?query=workflow%3A%22main%22)
 
-# as_any
+# as_any_min
 
 This is a very minimal crate that makes it easier to work
 with traits that implement `Any` by allowing you to easily
