@@ -1,0 +1,16 @@
+[package]
+name = "as_any"
+version = "1.0.0"
+authors = ["liambloom <liamrbloom@gmail.com>"]
+edition = "2018"
+license = "MIT"
+repository = "https://github.com/liambloom/as_any"
+description = "A simple rust library that allows trait objects to be easily upcast to Any"
+readme = "README.md"
+keywords = ["no_std", "upcast", "any", "trait-objects"]
+categories = ["no-std"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[badges]
+github = { repository = "liambloom/as_any" }
