@@ -36,7 +36,7 @@ Since rust doesn't (currently) have any built in way to
 upcast from a trait object to another trait (such as `Any`),
 this won't compile.
 
-```compile_fail
+```rust
 use core::any::Any;
 
 struct MyStruct;
