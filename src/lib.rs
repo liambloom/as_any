@@ -6,7 +6,7 @@
 //! 
 //! ```
 //! use core::any::Any;
-//! use as_any::AsAny;
+//! use as_any_min::AsAny;
 //! 
 //! struct MyStruct;
 //! trait MyTrait {}
