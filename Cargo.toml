@@ -9,8 +9,3 @@ description = "A miniscule rust library that allows trait objects to be easily u
 readme = "README.md"
 keywords = ["no_std", "upcast", "any", "trait-objects"]
 categories = ["no-std"]
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[badges]
-github = { repository = "liambloom/as_any" }

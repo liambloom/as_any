@@ -1,4 +1,4 @@
-[![Workflow Status](https://github.com/liambloom/as_any/workflows/main/badge.svg)](https://github.com/liambloom/as_any/actions?query=workflow%3A%22main%22)
+![](https://img.shields.io/crates/v/as_any_min.svg) ![](https://img.shields.io/crates/l/as_any_min) [![](https://img.shields.io/github/workflow/status/liambloom/as_any/main)](https://github.com/liambloom/as_any/actions?query=workflow%3A%22main%22)
 
 # as_any_min
 
